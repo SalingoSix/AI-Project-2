@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(164): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(223): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(354): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(407): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(411): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(415): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(419): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(428): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(429): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(433): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(435): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\alexm\documents\game development - advanced programming 2017\artificial intelligence\project2\project2\main.cpp(443): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Artificial Intelligence\Project2\x64\Debug\Project2.exe

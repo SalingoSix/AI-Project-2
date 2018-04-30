@@ -1,0 +1,15 @@
+Map_Dimensions:
+X= 50
+Z= 50
+
+Camera_Offset:
+Y= 25
+Z= 55
+
+Player:
+Position= 0.0 0.0 0.0
+Speed= 4
+
+Enemies:
+Count= 2000
+Speed= 3
